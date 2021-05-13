@@ -1,4 +1,4 @@
-# Pm-notes
+# pm-notes
 
 ### Globalization
 1. Issues
